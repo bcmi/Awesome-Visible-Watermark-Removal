@@ -26,7 +26,7 @@ deep convolutional networks.*" Chinese Conference on Pattern Recognition and Com
 
 + Cun, Xiaodong, Chi-Man Pun: "*Split then Refine: Stacked Attention-guided ResUNets for Blind Single Image Visible Watermark Removal.*" AAAI (2021). [[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-866.CunX.pdf) [[code]](https://github.com/vinthony/deep-blind-watermark-removal)
 
-+ Jing Liang, Li Niu, Fengjun Guo, Teng Long, Liqing Zhang, "Visible Watermark Removal via Self-calibrated Localization and Background Refinement", ACM MM (2021). [[pdf]](https://arxiv.org/pdf/2108.03581.pdf) [[code]](https://github.com/bcmi/SLBR-Visible-Watermark-Removal) 
++ Jing Liang, Li Niu, Fengjun Guo, Teng Long, Liqing Zhang: "*Visible Watermark Removal via Self-calibrated Localization and Background Refinement.*" ACM MM (2021). [[pdf]](https://arxiv.org/pdf/2108.03581.pdf) [[code]](https://github.com/bcmi/SLBR-Visible-Watermark-Removal) 
 
 ## Datasets
 
