@@ -22,6 +22,8 @@ deep convolutional networks.*" Chinese Conference on Pattern Recognition and Com
 
 + Xiang Li, Chan Lu, Danni Cheng, Wei-Hong Li, Mei Cao, Bo Liu, Jiechao Ma, Wei-Shi Zheng: "*Towards photo-realistic visible watermark removal with conditional generative adversarial networks.*" International Conference on Image and Graphics (2019). [[pdf]](https://arxiv.org/pdf/1905.12845.pdf)
 
++ Jiang, Pei, Shiwen He, Hufei Yu, and Yaoxue Zhang. "*Two‐stage visible watermark removal architecture based on deep learning.*" IET Image Processing 14, no. 15 (2020). [[pdf]](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/iet-ipr.2020.0444)
+
 + Liu, Yang, Zhen Zhu, Xiang Bai: "*WDNet: Watermark-Decomposition Network for Visible Watermark Removal.*" WACV (2021). [[pdf]](https://openaccess.thecvf.com/content/WACV2021/papers/Liu_WDNet_Watermark-Decomposition_Network_for_Visible_Watermark_Removal_WACV_2021_paper.pdf) [[code]](https://github.com/MRUIL/WDNet)
 
 + Cun, Xiaodong, Chi-Man Pun: "*Split then Refine: Stacked Attention-guided ResUNets for Blind Single Image Visible Watermark Removal.*" AAAI (2021). [[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-866.CunX.pdf) [[code]](https://github.com/vinthony/deep-blind-watermark-removal)
